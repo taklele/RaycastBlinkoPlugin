@@ -15,7 +15,7 @@
 
 1. 克隆此仓库：
 ```bash
-git clone https://github.com/taklele/raycastBlinko.git
+git clone https://github.com/taklele/RaycastBlinkoPlugin.git
 cd raycastBlinko
 ```
 
