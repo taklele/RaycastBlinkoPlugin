@@ -1,0 +1,20 @@
+⚠️ 需要添加图标
+
+在 assets/ 目录下需要一个 icon.png 文件（512x512 像素）
+
+快速方法：
+1. 访问 https://iconduck.com/icons/239174/note-sticky
+2. 下载一个日记本图标
+3. 重命名为 icon.png
+4. 放到 assets/ 目录
+
+或者使用 emoji：
+- 打开任意图片编辑器
+- 创建 512x512 的画布
+- 添加 📔 或 📝 emoji
+- 保存为 icon.png
+
+临时方案：
+- 使用任意 PNG 图片，只要是正方形即可
+
+没有图标文件 Raycast 将无法加载插件！
